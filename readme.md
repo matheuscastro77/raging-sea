@@ -2,7 +2,7 @@
 
 ## DEPLOY
 
-https://raging-sea-three.vercel.app/
+[Raging Sea](https://raging-sea-three.vercel.app/)
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
